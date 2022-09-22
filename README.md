@@ -1,4 +1,4 @@
-# 图欧学习资源库https://tuostudy.com/网站介绍
+# 图欧学习资源库网站介绍https://tuostudy.com/
 
 
 [![](https://pic.imgdb.cn/item/62d4ecb1f54cd3f937bb4e1f.jpg)](https://www.bilibili.com/video/BV1NY4y177De)
